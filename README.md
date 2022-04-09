@@ -2,7 +2,7 @@
 ## Introduction
 
 ## How to use
-要使用之前,需準備每個批次的txt檔,則我們會輸出align之後的列表
+要使用之前,需準備每個批次的txt檔,
 ### Step 1. setting all the parameters
 ### yaml file Parameters
 |Name|Default Values|Comments|
@@ -26,3 +26,5 @@
 ## Commands
 > java -jar peak_alignment
 > eg.,-jar "C:\Users\edwardkuo\Desktop\peak_alignment_jar\peak_alignment.jar"
+### Output file
+Peak alignment 會輸出一個表,這個表是校正過後的峰值列表
