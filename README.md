@@ -1,4 +1,4 @@
-# peak-alignment
+# Peak-alignment
 ## Introduction
 
 ## How to use
