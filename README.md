@@ -1,6 +1,6 @@
 # Peak-alignment
 ## Introduction
-
+這套軟體是一個基於LC/MS數據分析方法,
 ## How to use
 要使用之前,需準備每個批次的txt檔,
 ### Step 1. Setting all the parameters
