@@ -1,8 +1,8 @@
-# Peak-alignment
+# Peak-alignment in LC/MS
 ## Introduction
-這套軟體是一個基於LC/MS數據分析方法,
+這套軟體是一個基於LC/MS數據分析方法
 ## How to use
-要使用之前,需準備每個批次的txt檔,
+要使用之前,需準備每個批次的txt檔,放入同一資料夾
 ### Step 1. Setting all the parameters
 #### Yml file parameters
 |Name|Default Values|Comments|
