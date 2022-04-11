@@ -4,7 +4,7 @@
 ## How to use
 要使用之前,需準備每個批次的txt檔,
 ### Step 1. Setting all the parameters
-### Yml file parameters
+#### Yml file parameters
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
 |input|D:\data|the location of txt file(**data為許多txt檔的資料夾**)|
@@ -23,7 +23,7 @@
 |MinAbundance|0.0|
 |MinSample|1|
 ### Step 2.Using peak_alignment jar and  yml file
-## Commands
+#### Commands
 > java -jar peak_alignment  
 > eg.,-jar "C:\Users\edwardkuo\Desktop\peak_alignment_jar\peak_alignment.jar"
 ### Output file
