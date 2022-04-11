@@ -1,0 +1,15 @@
+filenamepath: C:\Users\edwardkuo\Desktop\tmp
+output: C:\Users\edwardkuo\Desktop\tmp\output.txt
+mztol: 0.05
+rttol: 18.0
+MinChargeState: 1
+MaxChargeState: 4
+MinRTRange:  0.0
+MaxRTRange: 9999.0
+MinMassRange: 0.0
+MaxMassRange: 9999.0
+MinIsotopicRatio: 0.0
+MaxIsotopicRatio: 1.0
+SN: 10.0
+MinAbundance: 0.0
+MinSample: 1
