@@ -1,8 +1,8 @@
 # Peak-alignment in LC/MS
 ## Introduction
-這套軟體是一個基於LC/MS數據分析方法
+這套軟體是一個基於LC/MS數據分析方法,
 ## How to use
-要使用之前,需準備每個批次的txt檔,放入同一資料夾
+要使用之前,需準備每個批次的峰值列表txt檔,放入同一資料夾讓程式讀取資料,
 ### Step 1. Setting all the parameters
 #### Yml file parameters
 |Name|Default Values|Comments|
@@ -10,7 +10,7 @@
 |input|D:\data|the location of txt file(**data為許多txt檔的資料夾**)|
 |output|D:\tmp\output.txt|
 |mztol|0.5|the value of M/Z tolerances|
-|rttol|30.0|
+|rttol|30.0|the value of retention time torlerances|
 |MinChargeState|1|
 |MaxChargeState|4|
 |MinRTRange|0.0|
