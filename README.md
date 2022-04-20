@@ -1,6 +1,6 @@
 # Peak-alignment in LC/MS
 ## Introduction
-這套軟體是一個基於LC/MS數據分析方法,
+這套軟體是一個基於LC/MS數據分析方法,我們會先經過peak detection 之後再將得到的峰值列表輸入到我們的程式中,讓峰值列表進行校正
 ## How to use
 要使用之前,需準備每個峰值列表txt檔,放入同一資料夾讓程式讀取資料,接著我們會依需執行下列每個步驟
 ### Step 1. Setting all the parameters
