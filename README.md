@@ -9,7 +9,7 @@
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
 |input|D:\data|the location of txt file(**data為許多txt檔的資料夾**)|
-|output|D:\tmp\output.txt|
+|output|D:\tmp\output.txt|the location of output file|
 |mztol|0.5|the value of M/Z tolerances|
 |rttol|30.0|the value of retention time torlerances|
 |MinChargeState|1|
