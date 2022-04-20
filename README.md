@@ -2,8 +2,9 @@
 ## Introduction
 這套軟體是一個基於LC/MS數據分析方法,
 ## How to use
-要使用之前,需準備每個批次的峰值列表txt檔,放入同一資料夾讓程式讀取資料,
+要使用之前,需準備每個峰值列表txt檔,放入同一資料夾讓程式讀取資料,接著我們會依需執行下列每個步驟
 ### Step 1. Setting all the parameters
+我們必須先使用data.yml輸入各項參數,參數如下
 #### Yml file parameters
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
@@ -23,6 +24,7 @@
 |MinAbundance|0.0|
 |MinSample|1|
 ### Step 2.Using peak_alignment jar and  yml file
+接著輸入下列的指令,讓程式執行
 #### Commands
 > java -jar peak_alignment  
 > eg.,-jar "C:\Users\edwardkuo\Desktop\peak_alignment_jar\peak_alignment.jar"
