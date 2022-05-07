@@ -37,8 +37,8 @@
 |sample_new|D:\tmp\sample.txt|其他樣本輸出路徑|
 #### 內標格式用
 使用tab分開
-|:----:|:-------------:|
 |mz|rt|
+|:----:|:-------------:|
 |100|2.5|
 |200|3.3|
 ### Step 2.Using peak_alignment jar and  yml file
