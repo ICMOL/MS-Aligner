@@ -47,4 +47,4 @@
 > java -jar peak_alignment  
 > eg.,-jar "C:\Users\edwardkuo\Desktop\peak_alignment_jar\peak_alignment.jar"
 ### Output file
-Peak alignment 會輸出一個表,這個表是校正過後的峰值列表
+Peak alignment 會輸出一個表,這個表是校正過後的峰值列表和輸出normalization後的表
