@@ -35,7 +35,7 @@
 |separate|0| 0為不需要幫資料的質量控制樣本與其他樣本分離 1為需要|
 |QC_new|D:\tmp\newQC.txt|QC樣本輸出路徑|
 |sample_new|D:\tmp\sample.txt|其他樣本輸出路徑|
-#### 內標格式用
+#### 內標格式
 使用tab分開
 |mz|rt|
 |:----:|:-------------:|
