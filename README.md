@@ -5,7 +5,10 @@
 要使用之前,需準備每個峰值列表txt檔,放入同一資料夾讓程式讀取資料,接著我們會依需執行下列每個步驟
 ### Step 1. Setting all the parameters
 我們必須先使用data.yml輸入各項參數,參數如下
-#### Yml file parameters
+#### Yml or txt file parameters
+首先,我們用冒號與空白去做區隔,每打完一個參數就直接換行,
+> ex:input: D:\data|the location of txt file
+參數如下
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
 |input|D:\data|the location of txt file(**data為許多txt檔的資料夾**)|
