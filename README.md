@@ -1,4 +1,4 @@
-# Peak-alignment in LC/MS
+# Peak-alignment and normalization tool with internal standard in LC/MS
 ## Introduction
 這套軟體是一個基於LC/MS數據分析方法,我們會先經過peak detection 之後再將得到的峰值列表輸入到我們的程式中,讓峰值列表進行校正
 ## How to use
