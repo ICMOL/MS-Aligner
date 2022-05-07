@@ -7,7 +7,7 @@
 我們必須先使用data.yml輸入各項參數,參數如下
 #### Yml or txt file parameters
 首先,我們用冒號與空白去做區隔,每打完一個參數就直接換行,
-> ex:input: D:\data|the location of txt file
+> ex:input: D:\data|the location of txt file  
 參數如下
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
