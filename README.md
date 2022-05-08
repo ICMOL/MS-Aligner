@@ -44,7 +44,7 @@
 ### Step 2.Using peak_alignment jar and  yml file
 接著輸入下列的指令,讓程式執行
 #### Commands
-> java -jar peak_alignment  
+> java -jar peak_alignment  parameter path
 > eg.,java -jar D:\peak_alignment.jar D:\path.yml
 ### Output file
 Peak alignment 會輸出一個表,這個表是校正過後的峰值列表和輸出normalization後的表
