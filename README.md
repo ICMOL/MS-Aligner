@@ -45,6 +45,6 @@
 接著輸入下列的指令,讓程式執行
 #### Commands
 > java -jar peak_alignment  
-> eg.,-jar "C:\Users\edwardkuo\Desktop\peak_alignment_jar\peak_alignment.jar"
+> eg.,java -jar D:\peak_alignment.jar D:\path.yml
 ### Output file
 Peak alignment 會輸出一個表,這個表是校正過後的峰值列表和輸出normalization後的表
