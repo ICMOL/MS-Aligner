@@ -26,8 +26,11 @@ Open the 'param.yml' file and edit the paramters if necessary.
 |Level | 2 | export the result in two levels, 1:sample level; 2: replicate level |
 
 ### Step 2. Execute the command
-> java -jar peak_alignment  parameter path  
-> eg.,java -jar D:\peak_alignment.jar D:\path.yml
+- For a single pepXML file
+> java -jar MS-Aligner param.yml peak_list.tsv
+
+- For multiple pepXML files
+> java -jar MS-Aligner param.yml *.tsv
 
 ### Output
 A table with detected metabolite features in rows and samples in columns
