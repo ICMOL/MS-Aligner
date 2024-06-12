@@ -18,7 +18,7 @@ Open the 'param.yml' file and edit the paramters if necessary.
 |rttol  | 0.5  | retention time tolerance (unit: min.) |
 |output | D:\report_test.tsv |output file path |
 
-#### Advanced
+#### Advance
 |Name|Default Values|Comments|
 |----|:-------------:|--------|
 |WindowSize | 20 | window size for LOWESS regressions |
