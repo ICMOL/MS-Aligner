@@ -27,10 +27,10 @@ Open the 'param.yml' file and edit the paramters if necessary.
 
 ### Step 2. Execute the command
 - For a single pepXML file
-> java -jar MS-Aligner param.yml peak_list.tsv
+> java -jar MS-Aligner.jar param.yml peak_list.tsv
 
 - For multiple pepXML files
-> java -jar MS-Aligner param.yml *.tsv
+> java -jar MS-Aligner.jar param.yml *.tsv
 
 ### Output
 A table with detected metabolite features in rows and samples in columns
