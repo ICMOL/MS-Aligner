@@ -14,7 +14,7 @@ A software tool designed to perform peak alignment for both proteomics and metab
     | :---          |     :---:      |        :---   |
     | mztol | 0.05  | m/z tolerance(unit : Da.). |
       |rttol |0.5|retention time tolerance(unit : min.) If the retention time and m/z differences of two features across different samples fall within this range, they are likely candidates for the same feature.|
-      |output| | output folder path (e.g., D:\test\|
+      |output| | output folder path (e.g., D:\test\)|
       |WindowSize|20|window size for LOWESS regressions|
       |MinChargeState|1|minimum charge state|
       |MaxChargeState|4|maximum charge state|
