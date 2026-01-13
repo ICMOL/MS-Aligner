@@ -2,7 +2,7 @@
 A software tool designed to perform peak alignment for both proteomics and metabolomics data generated from LC-MS/MS platforms.
 
 ## **System Requirement**
-* [Java SE Runtime Environment 8(or above)](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html) is required to be installed prior to use AutoMod.
+* [Java SE Runtime Environment 8(or above)](https://www.oracle.com/tw/java/technologies/javase/javase8-archive-downloads.html) is required to be installed prior to use MS-Aligner.
 
 ## **How to use**
 ### **step 1. Set up parameter**
