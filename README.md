@@ -43,10 +43,6 @@ required documents：
    This file allows you to view the distribution of each metric in [DeNox](https://github.com/ICMOL/source-DeNox).
 
 
-# Where to Download
-Please go to the **[Releases page](https://github.com/ICMOL/MS-Aligner/releases)** to download the software.
-
-
 ## **FAQ**
 Q1: Why do I get `java.io.FileNotFoundException` when running MS-Aligner?
 
@@ -70,7 +66,11 @@ Use the full and correct path to the directory or file：
    - macOS:```/Users/username/analyzed_files/*.txt```
 
 
+# Where to Download
+Please go to the **[Releases page](https://github.com/ICMOL/MS-Aligner/releases)** to download the software.
 
+# Data for Test
+* [a standard metabolite mixture](https://github.com/ICMOL/DeNox/releases/tag/v1.0.0)
 
 
 # Data for Test
