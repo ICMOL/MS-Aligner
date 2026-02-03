@@ -69,9 +69,6 @@ Use the full and correct path to the directory or file：
 # Where to Download
 Please go to the **[Releases page](https://github.com/ICMOL/MS-Aligner/releases)** to download the software.
 
-# Data for Test
-* [a standard metabolite mixture](https://github.com/ICMOL/DeNox/releases/tag/v1.0.0)
-
 
 # Data for Test
 * [a standard metabolite mixture](https://github.com/ICMOL/DeNox/releases/tag/v1.0.0)
